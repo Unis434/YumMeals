@@ -54,7 +54,7 @@ _**Link to test card payment details provided by Stripe**_ 👉&nbsp; https://st
 
 5. Enjoy! The app should be successfully loaded by now. Please feel free to play around and test out its features. If for any reason the app couldn't be loaded or any of the features are breaking, please report the issue at the link below.
 
-   - Link: https://github.com/BernStrom/YumMeals/issues
+   - Link: https://github.com/Unis434/YumMeals/issues
 
 ### :bangbang: IMPORTANT! - _Note for iOS users_
 
